@@ -2,7 +2,7 @@
 
 ### 1. Клонування репозиторію
 ```bash
-git clone <url-репозиторію>
+git clone git@github.com:Sentore847/ecommerce-project-ts.git
 cd ecommerce-generics
 ```
 
